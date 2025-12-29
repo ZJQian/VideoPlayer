@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'VideoPlayer'
-  s.version = '0.2.9'
+  s.version = '1.2.5'
   s.license = 'MIT'
   s.summary = 'Video player for swiftui'
   s.homepage = 'https://github.com/ZJQian/VideoPlayer'
